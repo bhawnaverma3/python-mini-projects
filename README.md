@@ -57,6 +57,8 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git checkout -b <branch-name>
     ```
 
+    
+
 - Create a folder in
   [projects directory](https://github.com/Python-World/python-mini-projects/tree/master/projects)
   according to issue name.
